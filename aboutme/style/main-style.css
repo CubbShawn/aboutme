@@ -1,0 +1,136 @@
+
+h1{
+    font-size:60px;
+    color:#106386;
+    text-align:center;
+}
+
+h2{
+    font-size:42px;
+    background:#F0E6D0;
+    color:#106386;
+    border-bottom: solid black 3px
+
+}
+p{
+    font-size:22px;
+    color:#F0E6D0;
+}
+
+a{
+    text-align:center;
+}
+
+button{
+    background:#106386;
+    color:#D2C086;
+    font-size: 15px;
+    border-radius: 12px;
+}
+
+header{
+    background: #F0E6D0;
+    padding: 2px 0;
+    margin-top: 20px;
+    border-bottom: black 3px solid;
+    border-top: black 3px solid;
+}
+
+body{
+background: #7DADB5;
+color:white;
+margin:0;
+text-align:center;
+
+}
+
+footer{
+    color:black;
+    
+}
+
+main{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+.music-main{
+    display:flex;
+}
+
+
+.music2{
+    margin-left:auto;
+    margin-right:auto;
+    background: #106386;
+    border: 3px solid black;
+    padding: 20px 100px;
+}
+
+.job{
+    display:flex;
+    
+}
+
+.job1{
+    background: #106386;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+.job2{
+    background: #106386;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+.skills{
+    display:flex;
+    margin-left:auto;
+    margin-right:auto;
+    border: 3px solid #DFA983;
+    background: #106386; 
+    margin:0px 50px;
+    color:#F0E6D0;
+    
+}
+
+.skills1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skills2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skills3{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jhead1{
+    background:white;
+    color:#106386;
+    
+}
+
+.jhead2{
+    background:white;
+    color:#106386;
+    
+}
+
+.history{
+    margin-left:auto;
+    margin-right:auto;
+    border: 3px solid #DFA983;
+    margin: 15px 200px;
+    background: #106386; 
+    color:#F0E6D0;
+}
+
