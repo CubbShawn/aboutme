@@ -73,18 +73,22 @@ main{
 .job{
     display:flex;
     
+    
+    
 }
 
 .job1{
     background: #106386;
     border: 3px solid black;
     margin: 10px;
+    margin-left:auto;
 }
 
 .job2{
     background: #106386;
     border: 3px solid black;
     margin: 10px;
+    margin-right:auto;
 }
 
 .skills{
