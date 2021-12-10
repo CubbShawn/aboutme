@@ -68,6 +68,7 @@ main{
     background: #106386;
     border: 3px solid black;
     padding: 20px 100px;
+    border-radius: 12px
 }
 
 .job{
@@ -81,14 +82,17 @@ main{
     background: #106386;
     border: 3px solid black;
     margin: 10px;
-    margin-left:auto;
+    margin-left:0px 5px;
+    border-radius: 12px;
+    
 }
 
 .job2{
     background: #106386;
     border: 3px solid black;
     margin: 10px;
-    margin-right:auto;
+    margin-right:0px 5px;
+    border-radius: 12px;
 }
 
 .skills{
@@ -99,22 +103,26 @@ main{
     background: #106386; 
     margin:0px 50px;
     color:#F0E6D0;
+    border-radius: 12px;
     
 }
 
 .skills1{
     margin-left: auto;
     margin-right: auto;
+    border-radius: 12px;
 }
 
 .skills2{
     margin-left: auto;
     margin-right: auto;
+    border-radius: 12px;
 }
 
 .skills3{
     margin-left: auto;
     margin-right: auto;
+    border-radius: 12px;
 }
 
 .jhead1{
@@ -126,6 +134,7 @@ main{
 .jhead2{
     background:white;
     color:#106386;
+    border-radius: 12px;
     
 }
 
@@ -136,5 +145,6 @@ main{
     margin: 15px 200px;
     background: #106386; 
     color:#F0E6D0;
+    border-radius: 12px;
 }
 
